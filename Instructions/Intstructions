@@ -1,0 +1,13 @@
+*This activity is meant to teach the user the importance of loops and how to use both “for” and “while” loops. 
+*By completing this activity, the user will be able to understand the syntax of “for” and “while” loops, 
+*be able to create their own “for” and “while” loops, and understand why loops are so important to computer programming.
+
+1.The student will first download the zipped file and drag the file into a code editor(I suggest VS code through github/gitpod)
+2.Once the file is open on the code editor, the user should see two folders, an answers folder and a questions folder.
+3.Open the “questions” folder and start with activity “Mario1”
+4.If struggling, there are sometimes comments on the bottom of the code that will help.
+5.Once an activity is finished, go to the answers folder and check the corresponding file
+    ***some activities do not require the code to be edited, therefore there are no answer files for those activities.
+6.The student will then work their way through all of the activities.
+7.The user can check their work by opening the “Answers” folder and going to the corresponding “Mario1” answer file.
+8.There are 10 activities and the whole project should take about one ram day. 
